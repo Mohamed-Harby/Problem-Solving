@@ -81,7 +81,7 @@ void generate_binary_perm(int length) {
         cout << '\n';
     }
 }
-
+ 
 /*  gray code : is a binary numerical system that makes sure that the absolute diff of popcount between any consecutive is 1
     see https://en.wikipedia.org/wiki/Gray_code
 

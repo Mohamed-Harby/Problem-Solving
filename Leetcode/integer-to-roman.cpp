@@ -1,6 +1,7 @@
 /*
-*In the name of allah the most gracious and the most merciful
+* In the name of allah the most gracious and the most merciful
 */
+// Problem ststement: https://leetcode.com/problems/integer-to-roman/ 
 
 #include <bits/stdc++.h>
 
@@ -23,7 +24,7 @@ void init() {
 
 class Solution {
 private:
-    const int numbers[13] =    {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
+    const int numbers[13] = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
     const string numerals[13] = {"M","CM", "D", "CD", "C","XC", "L", "XL", "X", "IX", "V", "IV", "I"};
 public:
     string intToRoman(int num) {

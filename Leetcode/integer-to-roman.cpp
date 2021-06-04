@@ -1,7 +1,7 @@
 /*
 * In the name of allah the most gracious and the most merciful
 */
-// Problem ststement: https://leetcode.com/problems/integer-to-roman/ 
+// Problem statement: https://leetcode.com/problems/integer-to-roman/ 
 
 #include <bits/stdc++.h>
 
